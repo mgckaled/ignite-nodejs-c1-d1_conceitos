@@ -42,7 +42,7 @@
 
 ## Sobre o Projeto
 
-Esse projeto aborda a construção de uma API Financeira simples.
+Esse projeto contém a resolução do Desafio 01 (Chapter 1) da trilha Ignite Node.js 2021 produzido pela Rocketseat Education. Detalhes do desafio [aqui](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8).
 
 ## Configurações
 
@@ -62,7 +62,7 @@ $ yarn test
 - `uuid`: o [uuid](https://www.npmjs.com/package/uuid) permite a criação de [RFC4122](https://www.ietf.org/rfc/rfc4122.txt) UUIDs
 - `cors`: o [cors](https://www.npmjs.com/package/cors) CORS significa _Cross-Origin Resource Sharing_. Isso nos permite menor preocupação com a segurança aplicada a uma API. Isso é feito ignorando os cabeçalhos Access-Control-Allow-Origin, que especificam quais origens podem acessar a API.
 - `jest`: [Jest](https://jestjs.io/pt-BR/) é um poderoso Framework de Testes em JavaScript com um foco na simplicidade.
-- `supertest`:
+- `supertest`: [SuperTest](https://www.npmjs.com/package/supertest) é um aplicativo Node.js que ajuda os desenvolvedores nos testes de APIs. Ele estende outra biblioteca chamada superagent, um cliente HTTP JavaScript para Node.js e o navegador. Os desenvolvedores podem usar o SuperTest como uma biblioteca autônoma ou com estruturas de teste JavaScript como Mocha ou Jest.
 - `Insomnia`: [Insomnia](https://insomnia.rest/) é um framework Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC. Com esta ferramenta torna-se possível realizar a documentação, automação e com a sua versão CLI tools é possível implementar testes em pipeline.
 
 ## Licença
