@@ -29,7 +29,7 @@
 
 <br>
 
-# Ignite Node.js - Primeiro Projeto
+# Ignite Node.js - Desafio 01 (Chapter 1)
 
 <div align="center">
 
